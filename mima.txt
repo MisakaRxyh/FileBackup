@@ -2,4 +2,8 @@
 130Î¢²©µÇÂ¼
 IP£¨¹«£©£º47.102.102.23
 ÕËºÅ£ºroot
-ÃÜÂë£ºczj123456
+ÃÜÂë£ºczj1*6
+
+Õ½Íø
+ÕËºÅ£ºKongBaidege@126.com
+ÃÜÂë£ºczj7*9
